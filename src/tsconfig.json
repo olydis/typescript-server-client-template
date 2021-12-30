@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "jsx": "react",
+        "jsxFactory": "dom",
+        "strict": true,
+        "experimentalDecorators": true,
+        "target": "es2020",
+        "moduleResolution": "node",
+        "module": "UMD",
+        "sourceMap": true,
+        "lib": [
+            "DOM",
+            "es2020"
+        ],
+        "rootDir": "."
+    }
+}

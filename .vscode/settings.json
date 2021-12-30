@@ -1,0 +1,18 @@
+{
+  "files.exclude": {
+    ".vscode": true,
+    "**/.hg": false,
+    "**/.svn": false,
+    "**/*.d.ts": true,
+    "**/*.js.map": true,
+    "**/CVS": false,
+    "*/**/*.js": true,
+    "node_modules": true
+  },
+  "search.exclude": {
+    "**/*.d.ts": true,
+    "**/*.js.map": true,
+    "*/**/*.js": true
+  },
+  "editor.tabSize": 2
+}

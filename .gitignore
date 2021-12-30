@@ -1,0 +1,6 @@
+src/backend/db/data/
+node_modules/
+*.mdmp
+*.js
+*.js.map
+*.d.ts
